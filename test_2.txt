@@ -1,1 +1,0 @@
-Thêm nội dung mới vào test_2.txt
